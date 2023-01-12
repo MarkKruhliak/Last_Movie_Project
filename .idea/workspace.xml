@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5c0f3d8-a641-4bb1-ac70-8ec9b8fd4fd3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/Database/ActionToken.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/Database/AuthToken.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/Database/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/Database/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/controllers/auth.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/controllers/user.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/middlewares/access.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/middlewares/auth.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/middlewares/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/middlewares/user.middlewares.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/auth.router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/film.router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/user.router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/services/auth.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/services/token.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/services/user.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/Top-Film/src/components/Authorization/Authorization.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/Top-Film/src/components/Header/login.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/Top-Film/src/components/Login/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/Top-Film/src/components/Logout/Logout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/Top-Film/src/redux/slices/LoginSlice.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Top-Film" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/Top-Film" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Top-Film/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/Top-Film/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Top-Film/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/Top-Film/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Top-Film/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/Top-Film/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Top-Film/src/components/AllMovies/AllMovies.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/Top-Film/src/components/AllMovies/AllMovies.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Top-Film/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/Top-Film/src/components/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Top-Film/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/Top-Film/src/components/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Top-Film/src/components/movies.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/Top-Film/src/components/movies.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Top-Film/src/redux/configs/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/Top-Film/src/redux/configs/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Top-Film/src/redux/slices/MovieSlice.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/Top-Film/src/redux/slices/MovieSlice.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Top-Film/src/redux/slices/UserSlice.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/Top-Film/src/redux/slices/UserSlice.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Top-Film/src/redux/slices/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/Top-Film/src/redux/slices/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ms/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/license.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ms/license.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ms/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ms/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/ms/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/ms/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/ms/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/ms/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend/Top-Film" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/frontend/Top-Film/src/components/Authorization/Authorization.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/frontend/Top-Film/src/App.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/frontend/Top-Film/src/components/Layout/Layout.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/frontend/Top-Film/src/components/Header/Header.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/frontend/Top-Film/src/components/Container/Container.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/frontend/Top-Film/src/components/index.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/backend/app.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/backend/Database/User.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/frontend/Top-Film/src/redux/slices/UserSlice.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2I3HUkE1Xr8fAnoK2PnhpxOZlNm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samkr\Desktop\Last_Movie_Project\frontend\Top-Film\src\components\Header" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$USER_HOME$/AppData/Local/Temp/Rar$DIa3052.19051/index.js" working-dir="$USER_HOME$/AppData/Local/Temp/Rar$DIa3052.19051">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5c0f3d8-a641-4bb1-ac70-8ec9b8fd4fd3" name="Changes" comment="" />
+      <created>1669403375283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669403375283</updated>
+      <workItem from="1669403379145" duration="1177000" />
+      <workItem from="1669429874500" duration="4319000" />
+      <workItem from="1669492272734" duration="804000" />
+      <workItem from="1669495651374" duration="9372000" />
+      <workItem from="1669592068813" duration="3732000" />
+      <workItem from="1669686139283" duration="721000" />
+      <workItem from="1669724264883" duration="8000" />
+      <workItem from="1669724315247" duration="6000" />
+      <workItem from="1669762028696" duration="13510000" />
+      <workItem from="1669830047859" duration="8650000" />
+      <workItem from="1669853190248" duration="961000" />
+      <workItem from="1669854192840" duration="4397000" />
+      <workItem from="1669919201063" duration="2517000" />
+      <workItem from="1670184346879" duration="4495000" />
+      <workItem from="1670282763728" duration="676000" />
+      <workItem from="1670284129874" duration="9529000" />
+      <workItem from="1670359923101" duration="860000" />
+      <workItem from="1670388621283" duration="2149000" />
+      <workItem from="1670390796169" duration="9124000" />
+      <workItem from="1670455087666" duration="15206000" />
+      <workItem from="1670572589133" duration="3338000" />
+      <workItem from="1670656135655" duration="1794000" />
+      <workItem from="1670737978073" duration="3952000" />
+      <workItem from="1670758497177" duration="598000" />
+      <workItem from="1670765882392" duration="627000" />
+      <workItem from="1670766552150" duration="167000" />
+      <workItem from="1670766876244" duration="343000" />
+      <workItem from="1670767260731" duration="855000" />
+      <workItem from="1670768731889" duration="597000" />
+      <workItem from="1670849761582" duration="2309000" />
+      <workItem from="1670853334827" duration="2326000" />
+      <workItem from="1670857296511" duration="613000" />
+      <workItem from="1670908927469" duration="7575000" />
+      <workItem from="1670918858051" duration="1706000" />
+      <workItem from="1670920789750" duration="674000" />
+      <workItem from="1670921494082" duration="2503000" />
+      <workItem from="1670938903956" duration="1697000" />
+      <workItem from="1671011127775" duration="686000" />
+      <workItem from="1671015702242" duration="530000" />
+      <workItem from="1671179295975" duration="4344000" />
+      <workItem from="1671264494332" duration="592000" />
+      <workItem from="1671293616593" duration="10026000" />
+      <workItem from="1671366905127" duration="1824000" />
+      <workItem from="1671368818724" duration="959000" />
+      <workItem from="1671369887314" duration="4202000" />
+      <workItem from="1671376317039" duration="3034000" />
+      <workItem from="1671455133119" duration="3993000" />
+      <workItem from="1672059967136" duration="2355000" />
+      <workItem from="1672607778256" duration="491000" />
+      <workItem from="1672669671523" duration="3755000" />
+      <workItem from="1672695752649" duration="108000" />
+      <workItem from="1673276129235" duration="6894000" />
+      <workItem from="1673304316175" duration="8804000" />
+      <workItem from="1673377956094" duration="593000" />
+      <workItem from="1673389697899" duration="2114000" />
+      <workItem from="1673405040640" duration="4437000" />
+      <workItem from="1673471365912" duration="11079000" />
+      <workItem from="1673534052028" duration="4458000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+  </component>
+</project>
